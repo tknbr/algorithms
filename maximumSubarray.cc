@@ -68,7 +68,7 @@ result max_subarray(vector<int> &A, int left, int right){
 		return r;
 	}
 
-	/* divide and conquere*/
+	/* divide and conquere */
 	result r_l = max_subarray(A, left, half);
 	result r_r = max_subarray(A, half+1, right);
 	result r_c = max_crossing(A, left, right);
