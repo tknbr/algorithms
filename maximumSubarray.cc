@@ -58,6 +58,8 @@ result max_crossing(vector<int> &A, int left, int right){
 
 result max_subarray(vector<int> &A, int left, int right){
 	int half = (left+right)/2;
+
+	/* base case of 1 element */
 	if (left == half and half == right){
 		result r;
 		r.high = left;
@@ -66,6 +68,7 @@ result max_subarray(vector<int> &A, int left, int right){
 		return r;
 	}
 
+	/* divide and conquere*/
 	result r_l = max_subarray(A, left, half);
 	result r_r = max_subarray(A, half+1, right);
 	result r_c = max_crossing(A, left, right);
