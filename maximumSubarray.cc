@@ -1,5 +1,12 @@
-#include <vector> //vector
-#include <iostream> //couts
+/**
+ * Implemented by Arnau Bagó Castro
+ * 
+ * Linkedin: https://es.linkedin.com/in/arnaubago
+ * Github collection: https://github.com/tknbr/algorithms
+ */
+
+#include <vector> 
+#include <iostream> 
 
 using namespace std;
 

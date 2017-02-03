@@ -1,3 +1,10 @@
+/**
+ * Implemented by Arnau Bagó Castro
+ * 
+ * Linkedin: https://es.linkedin.com/in/arnaubago
+ * Github collection: https://github.com/tknbr/algorithms
+ */
+
 #include <iostream>
 #include <math.h>
 #include <vector>
@@ -8,6 +15,7 @@ using namespace std;
  * input: vector of integers that fit into memory
  * output: vector is sorted (<)
  * start, end and middle are always naturals. We could have used unsigend int.
+ * Complexity: O(nlog(n))
  */
 
 void merge(vector<int> &A, int start, int end, int middle){
