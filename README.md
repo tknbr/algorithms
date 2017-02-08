@@ -1,5 +1,5 @@
 ## Sorting algorithms
-#Comparison sorts
+###Comparison sorts
 
 [Merge sort](https://github.com/tknbr/algorithms/blob/master/mergeSort.cc)
 
@@ -7,7 +7,7 @@
 
 [Quick sort](https://github.com/tknbr/algorithms/blob/master/quickSort.cc)
 
-#Integer sorting
+###Integer sorting
 
 [Counting sort](https://github.com/tknbr/algorithms/blob/master/countingSort.cc)
 
