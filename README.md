@@ -3,5 +3,7 @@
 
 [Heap sort](https://github.com/tknbr/algorithms/blob/master/heapSort.cc)
 
+[Quick sort](https://github.com/tknbr/algorithms/blob/master/quickSort.cc)
+
 ## Search
 [Maximum subarray](https://github.com/tknbr/algorithms/blob/master/maximumSubarray.cc)
