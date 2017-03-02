@@ -1,3 +1,5 @@
+This branch will contain some of the basic algorithms I have used during all this years. I will be adding the whole pack when I have time. 
+
 ## Sorting algorithms
 ###Comparison sorts
 
