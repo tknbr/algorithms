@@ -1,7 +1,7 @@
 This branch will contain some of the basic algorithms I have used during all this years. I will be adding the whole pack when I have time. 
 
 ## Sorting algorithms
-###Comparison sorts
+### Comparison sorts
 
 [Merge sort](https://github.com/tknbr/algorithms/blob/master/mergeSort.cc)
 
@@ -9,7 +9,7 @@ This branch will contain some of the basic algorithms I have used during all thi
 
 [Quick sort](https://github.com/tknbr/algorithms/blob/master/quickSort.cc)
 
-###Integer sorting
+### Integer sorting
 
 [Counting sort](https://github.com/tknbr/algorithms/blob/master/countingSort.cc)
 
