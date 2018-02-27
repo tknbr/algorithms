@@ -3,6 +3,8 @@ This branch will contain some of the basic algorithms I have used during all thi
 ## Sorting algorithms
 ### Comparison sorts
 
+[Bubble sort](https://github.com/tknbr/algorithms/blob/master/bubbleSort.cc)
+
 [Merge sort](https://github.com/tknbr/algorithms/blob/master/mergeSort.cc)
 
 [Heap sort](https://github.com/tknbr/algorithms/blob/master/heapSort.cc)
